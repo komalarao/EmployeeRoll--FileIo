@@ -1,10 +1,10 @@
 package com.bridgelabz.employeePayrollFileIO;
 
-public class EmployeeData {
+public class EmployeePayRollData {
 	 private int employeeId;
 	    private String employeeName;
 	    private int employeeSalary;
-	    public EmployeeData(int employeeId, String employeeName, int employeeSalary) {
+	    public EmployeePayRollData(int employeeId, String employeeName, int employeeSalary) {
 	        super();
 	        this.employeeId = employeeId;
 	        this.employeeName = employeeName;
